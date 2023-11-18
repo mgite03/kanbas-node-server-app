@@ -1,0 +1,13 @@
+[
+    { "_id": "CS4550",
+      "name": "Web Development", "number": "CS4550", "startDate": "2023-09-01",
+      "endDate": "2023-12-15"
+    },
+    { "_id": "CS4100",
+      "name": "Artificial Intelligence", "number": "CS4100", "startDate": "2023-09-02", "endDate": "2023-12-16"
+    },
+    { "_id": "CS3700",
+      "name": "Networks And Distributed Systems", "number": "CS3700", "startDate": "2023-09-03", "endDate": "2023-12-17"
+    }
+  ]
+  

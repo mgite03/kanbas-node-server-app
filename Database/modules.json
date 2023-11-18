@@ -1,0 +1,63 @@
+[
+    {
+      "_id": "M101",
+      "name": "Week 0 - INTRO",
+      "description": "Introduction to Web Development and environment set up.",
+      "course": "CS4550"
+    },
+    {
+      "_id": "M102",
+      "name": "Week 1 - HTML",
+      "description": "Learning HTML basics.",
+      "course": "CS4550"
+    },
+    {
+      "_id": "M103",
+      "name": "Week 2 - CSS",
+      "description": "Priciples of visual styling for web apps.",
+      "course": "CS4550"
+    },
+    {
+      "_id": "M201",
+      "name": "Uninformed Search",
+      "description": "Basic search problem formulations and methods.",
+      "course": "CS4100"
+    },
+    {
+      "_id": "M202",
+      "name": "Informed Search",
+      "description": "Learning about heuristics.",
+      "course": "CS4100"
+    },
+    {
+      "_id": "M203",
+      "name": "Markov Decision Processes",
+      "description": "Returns, rewards, expectations, oh my!",
+      "course": "CS4100"
+    },
+    {
+      "_id": "M301",
+      "name": "Physical Layer",
+      "description": "Transforming signals into bits/information at the hardware level.",
+      "course": "CS3700"
+    },
+    {
+      "_id": "M302",
+      "name": "Data Link Layer",
+      "description": "Parsing the data into frames, Ethernet protocol.",
+      "course": "CS3700"
+    },
+    {
+      "_id": "M303",
+      "name": "Network Layer",
+      "description": "Forwarding information to other routers.",
+      "course": "CS3700"
+    },
+
+    {
+      "_id": "M304",
+      "name": "Transport Layer",
+      "description": "Ensuring data is delivered to the correct program.",
+      "course": "CS3700"
+    }
+  ]

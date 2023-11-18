@@ -1,0 +1,12 @@
+[
+    { "_id": "A101", "title": "ENV + HTML", "course": "CS4550", "type":"assignment", "due": "Sep 18 at 11:59pm", "description": "Write an HTML page."},
+    { "_id": "A102", "title": "CSS + BOOTSTRAP", "course": "CS4550","type":"assignment","due": "Oct 2 at 11:59pm", "description": "Now make a webpage with style B)" },
+    { "_id": "A103", "title": "JS + REACT", "course": "CS4550","type":"assignment","due": "Oct 16 at 11:59pm", "description": "Make your webpage  ~responsive~" },
+    { "_id": "A104", "title": "Q1 - HTML", "course": "CS4550","type":"quiz", "due": "Sep 20 at 11:59pm", "description": "HTML Quiz"},
+    { "_id": "A201", "title": "BFS, DFS, UCS", "course": "CS4100","type":"quiz","due": "Sep 18 at 11:59pm", "description": "Search for something idk"},
+    { "_id": "A202", "title": "Heuristic practice", "course": "CS4100","type":"assignment","due": "Oct 2 at 11:59pm", "description": "Make up 3 heuristics" },
+    { "_id": "A203", "title": "Multiagent search", "course": "CS4100","type":"assignment","due": "Oct 16 at 11:59pm", "description": "Do minimax!"  },
+    { "_id": "A301", "title": "Socket Basics", "course": "CS3700","type":"assignment","due": "Sep 18 at 11:59pm", "description": "Set up one socket." },
+    { "_id": "A302", "title": "FTP server", "course": "CS3700","type":"assignment","due": "Oct 2 at 11:59pm", "description": "Transfer a file." },
+    { "_id": "A303", "title": "Final Project", "course": "CS3700","type":"project","due": "Oct 16 at 11:59pm" }
+  ]
